@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jose\\Documents\\Server\\Proyectos\\.NET\\FacturacionAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9278C9-107F-4850-AB4A-ABAD1A4CC3DE}|FacturacionAPI\\FacturacionAPI.csproj|c:\\users\\jose\\documents\\server\\proyectos\\.net\\facturacionapi\\facturacionapi\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F9278C9-107F-4850-AB4A-ABAD1A4CC3DE}|FacturacionAPI\\FacturacionAPI.csproj|solutionrelative:facturacionapi\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9278C9-107F-4850-AB4A-ABAD1A4CC3DE}|FacturacionAPI\\FacturacionAPI.csproj|c:\\users\\jose\\documents\\server\\proyectos\\.net\\facturacionapi\\facturacionapi\\data\\productodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F9278C9-107F-4850-AB4A-ABAD1A4CC3DE}|FacturacionAPI\\FacturacionAPI.csproj|solutionrelative:facturacionapi\\data\\productodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9278C9-107F-4850-AB4A-ABAD1A4CC3DE}|FacturacionAPI\\FacturacionAPI.csproj|c:\\users\\jose\\documents\\server\\proyectos\\.net\\facturacionapi\\facturacionapi\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F9278C9-107F-4850-AB4A-ABAD1A4CC3DE}|FacturacionAPI\\FacturacionAPI.csproj|solutionrelative:facturacionapi\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9278C9-107F-4850-AB4A-ABAD1A4CC3DE}|FacturacionAPI\\FacturacionAPI.csproj|c:\\users\\jose\\documents\\server\\proyectos\\.net\\facturacionapi\\facturacionapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F9278C9-107F-4850-AB4A-ABAD1A4CC3DE}|FacturacionAPI\\FacturacionAPI.csproj|solutionrelative:facturacionapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9278C9-107F-4850-AB4A-ABAD1A4CC3DE}|FacturacionAPI\\FacturacionAPI.csproj|c:\\users\\jose\\documents\\server\\proyectos\\.net\\facturacionapi\\facturacionapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F9278C9-107F-4850-AB4A-ABAD1A4CC3DE}|FacturacionAPI\\FacturacionAPI.csproj|solutionrelative:facturacionapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jose\\Documents\\Server\\Proyectos\\.NET\\FacturacionAPI\\FacturacionAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "FacturacionAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jose\\Documents\\Server\\Proyectos\\.NET\\FacturacionAPI\\FacturacionAPI\\appsettings.json",
+              "RelativeToolTip": "FacturacionAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T22:55:56.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\Documents\\Server\\Proyectos\\.NET\\FacturacionAPI\\FacturacionAPI\\Program.cs",
+              "RelativeDocumentMoniker": "FacturacionAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Jose\\Documents\\Server\\Proyectos\\.NET\\FacturacionAPI\\FacturacionAPI\\Program.cs",
+              "RelativeToolTip": "FacturacionAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T22:14:12.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\Documents\\Server\\Proyectos\\.NET\\FacturacionAPI\\FacturacionAPI\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "FacturacionAPI\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Jose\\Documents\\Server\\Proyectos\\.NET\\FacturacionAPI\\FacturacionAPI\\Models\\Producto.cs",
+              "RelativeToolTip": "FacturacionAPI\\Models\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T22:11:48.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoData.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\Documents\\Server\\Proyectos\\.NET\\FacturacionAPI\\FacturacionAPI\\Data\\ProductoData.cs",
+              "RelativeDocumentMoniker": "FacturacionAPI\\Data\\ProductoData.cs",
+              "ToolTip": "C:\\Users\\Jose\\Documents\\Server\\Proyectos\\.NET\\FacturacionAPI\\FacturacionAPI\\Data\\ProductoData.cs",
+              "RelativeToolTip": "FacturacionAPI\\Data\\ProductoData.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAowGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T22:06:20.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\Documents\\Server\\Proyectos\\.NET\\FacturacionAPI\\FacturacionAPI\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "FacturacionAPI\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\Jose\\Documents\\Server\\Proyectos\\.NET\\FacturacionAPI\\FacturacionAPI\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "FacturacionAPI\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBMAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T22:05:49.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
